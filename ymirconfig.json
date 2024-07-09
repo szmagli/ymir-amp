@@ -1,15 +1,19 @@
 [
     {
         "DisplayName": "save",
-        "Category": "save",
-        "Description": "save",
+        "Category": "Server Settings",
+        "Description": "",
         "Keywords": "save",
         "FieldName": "save",
         "InputType": "text",
         "IsFlagArgument": false,
         "ParamFieldName": "save",
-        "IncludeInCommandLine": true,
-        "DefaultValue": "save",
+        "IncludeInCommandLine": false,
+        "DefaultValue": "",
+        "Placeholder": "",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
         "EnumValues": {}
     }
 ]
