@@ -88,3 +88,4 @@ App.UpdateSources=@IncludeJson[ymirupdates.json]
 Errors=
 isValid=true
 App.EnvironmentVariables={"LD_LIBRARY_PATH": "{{$FullBaseDir}}linux64:{{$FullRootDir}}linux64:%LD_LIBRARY_PATH%", "SteamAppId": "749070", "WINEPREFIX": "{{$FullRootDir}}.wine", "WINEARCH": "win64", "WINEDEBUG": "-all"}
+Console.ThrowawayMessageRegex=^(WARNING|ERROR): Shader.+$
