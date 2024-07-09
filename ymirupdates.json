@@ -3,11 +3,11 @@
         "UpdateStageName": "install",
         "UpdateSourcePlatform": "Windows",
         "UpdateSource": "SteamCMD",
-        "UpdateSourceData": "749070",
         "UpdateSourceArgs": "749070",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
         "ForceDownloadPlatform": "Windows",
+        "UpdateSourceConditionValue": "true",
         "DeleteAfterExtract": true,
         "OneShot": false
     }
