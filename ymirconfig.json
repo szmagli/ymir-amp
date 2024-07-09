@@ -1,0 +1,15 @@
+[
+    {
+        "DisplayName": "save",
+        "Category": "save",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "save",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "save",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "",
+        "EnumValues": {}
+    }
+]
