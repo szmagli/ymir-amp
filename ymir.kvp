@@ -9,6 +9,7 @@ App.DisplayName=Ymir
 App.EnvironmentVariables={"LD_LIBRARY_PATH": "./linux64:%LD_LIBRARY_PATH%", "SteamAppId": "749070"}
 App.ExecutableLinux=/usr/bin/wine
 App.ExecutableWin=749070\Ymir.exe
+App.LinuxCommandLineArgs="./Ymir.exe"
 App.ExitMethod=String
 App.ExitString=stop
 App.HasReadableConsole=true
